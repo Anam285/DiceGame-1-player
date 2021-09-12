@@ -1,0 +1,14 @@
+.dice-face-1{ transform: rotateY(-20deg) translateZ(2.5em); }
+.dice-face-2{ transform: rotateY(160deg) translateZ(2.5em); }
+.dice-face-3{ transform: rotateY( -110deg) translateZ(2.5em); }
+.dice-face-4{ transform: rotateY(70deg) translateZ(2.5em); }
+.dice-face-5{ transform: rotateX(90deg) rotateZ(-160deg) translateZ(2.5em); }
+.dice-face-6{ transform: rotateX(-90deg) rotateZ(160deg)translateZ(2.5em); }
+
+
+.dice-face-1{ transform: rotateY(-20deg) translateZ(2.5em); }
+.dice-face-2{ transform: rotateY(160deg)  translateZ(2.5em); }
+.dice-face-3{ transform: rotateY(70deg) translateZ(2.5em); }
+.dice-face-4{ transform: rotateY(-110deg)  translateZ(2.5em); }
+.dice-face-5{ transform: rotateX(90deg) rotateZ(20deg) translateZ(2.5em); }
+.dice-face-6{ transform: rotateX(-90deg) rotateZ(-20deg)translateZ(2.5em); }
